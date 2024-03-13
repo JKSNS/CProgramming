@@ -1,27 +1,27 @@
-# C Programming
+ #C Programming
 
-### Introduction to C
+ Introduction to C
 
-### Control Structures
+ Control Structures
 
-### Functions
+ Functions
 
-### Preprocessors and Linking
+ Preprocessors and Linking
 
-### Data Structures
+ Data Structures
 
-### Input/Output in C
+ Input/Output in C
 
-### Exceptions in C
+ Exceptions in C
 
-### Advanced Topics
+ Advanced Topics
 
-### Programming Techniques
+ Programming Techniques
 
-### Standard Library
+ Standard Library
 
-### Best Practices
+ Best Practices
 
-### Real-World Applications
+ Real-World Applications
 
-### Advanced C Concepts
+ Advanced C Concepts
