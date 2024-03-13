@@ -1,3 +1,27 @@
 # C Programming
 
-This repository is full of my C programming personal projects in order to help me learn about C's integration with assembly code. 
+### Introduction to C
+
+### Control Structures
+
+### Functions
+
+### Preprocessors and Linking
+
+### Data Structures
+
+### Input/Output in C
+
+### Exceptions in C
+
+### Advanced Topics
+
+### Programming Techniques
+
+### Standard Library
+
+### Best Practices
+
+### Real-World Applications
+
+### Advanced C Concepts
